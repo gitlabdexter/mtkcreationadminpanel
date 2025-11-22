@@ -29,7 +29,7 @@ export const INITIAL_DATA: AppData = {
   faq: [
     { id: 'faq-1', question: 'How to connect?', answer: 'Simply tap the connect button on the main screen.' },
     { id: 'faq-2', question: 'What is a VPN?', answer: 'A Virtual Private Network (VPN) gives you online privacy and anonymity by creating a private network from a public internet connection.' },
-    { id: 'faq-3', question: 'Is DX VPN free?', answer: 'We offer a free tier with limited features and premium plans for full access.' },
+    { id: 'faq-3', question: 'Is MEDIATEK VPN free?', answer: 'We offer a free tier with limited features and premium plans for full access.' },
   ],
   feedback: [
     { id: 'fb-1', userId: 'user-1', message: 'Great app!', rating: 5, timestamp: Date.now() - 86400000 },
@@ -41,26 +41,26 @@ export const INITIAL_DATA: AppData = {
   ],
   termsAndConditions: `
     <h2>1. Introduction</h2>
-    <p>Welcome to DX VPN! These Terms and Conditions ("Terms") govern your use of the DX VPN application and services. By accessing or using DX VPN, you agree to be bound by these Terms.</p>
+    <p>Welcome to MEDIATEK VPN! These Terms and Conditions ("Terms") govern your use of the MEDIATEK VPN application and services. By accessing or using MEDIATEK VPN, you agree to be bound by these Terms.</p>
     
     <h2>2. Services</h2>
-    <p>DX VPN provides virtual private network services to enhance your online privacy and security. We strive to offer reliable service but cannot guarantee uninterrupted availability.</p>
+    <p>MEDIATEK VPN provides virtual private network services to enhance your online privacy and security. We strive to offer reliable service but cannot guarantee uninterrupted availability.</p>
     
     <h2>3. User Conduct</h2>
-    <p>You agree not to use DX VPN for any unlawful or prohibited activities, including but not limited to, distributing malware, engaging in harassment, or violating intellectual property rights.</p>
+    <p>You agree not to use MEDIATEK VPN for any unlawful or prohibited activities, including but not limited to, distributing malware, engaging in harassment, or violating intellectual property rights.</p>
     
     <h2>4. Privacy Policy</h2>
-    <p>Your use of DX VPN is also governed by our Privacy Policy, which outlines how we collect, use, and protect your data.</p>
+    <p>Your use of MEDIATEK VPN is also governed by our Privacy Policy, which outlines how we collect, use, and protect your data.</p>
     
     <h2>5. Changes to Terms</h2>
-    <p>We reserve the right to modify these Terms at any time. Your continued use of DX VPN after any such changes constitutes your acceptance of the new Terms.</p>
+    <p>We reserve the right to modify these Terms at any time. Your continued use of MEDIATEK VPN after any such changes constitutes your acceptance of the new Terms.</p>
     
     <h2>6. Contact Us</h2>
     <p>If you have any questions about these Terms, please contact us at support@dxvpn.com.</p>
   `,
   privacyPolicy: `
     <h2>1. Introduction</h2>
-    <p>Your privacy is paramount to DX VPN. This Privacy Policy explains what information we collect, how we use it, and your rights concerning your data.</p>
+    <p>Your privacy is paramount to MEDIATEK VPN. This Privacy Policy explains what information we collect, how we use it, and your rights concerning your data.</p>
 
     <h2>2. Information We Collect</h2>
     <ul>
@@ -86,40 +86,40 @@ export const INITIAL_DATA: AppData = {
   `,
   eula: `
     <h2>1. Grant of License</h2>
-    <p>This End-User License Agreement ("EULA") is a legal agreement between you and DX VPN for the use of the DX VPN software and services. By installing or using DX VPN, you agree to the terms of this EULA.</p>
+    <p>This End-User License Agreement ("EULA") is a legal agreement between you and MEDIATEK VPN for the use of the MEDIATEK VPN software and services. By installing or using MEDIATEK VPN, you agree to the terms of this EULA.</p>
 
     <h2>2. License Scope</h2>
-    <p>DX VPN grants you a revocable, non-exclusive, non-transferable, limited license to download, install, and use the DX VPN software solely for your personal, non-commercial purposes strictly in accordance with the terms of this EULA.</p>
+    <p>MEDIATEK VPN grants you a revocable, non-exclusive, non-transferable, limited license to download, install, and use the MEDIATEK VPN software solely for your personal, non-commercial purposes strictly in accordance with the terms of this EULA.</p>
 
     <h2>3. Restrictions</h2>
     <p>You agree not to, and you will not permit others to:</p>
     <ul>
       <li>License, sell, rent, lease, assign, distribute, transmit, host, outsource, disclose, or otherwise commercially exploit the Application or make the Application available to any third party.</li>
       <li>Modify, make derivative works of, disassemble, decrypt, reverse compile, or reverse engineer any part of the Application.</li>
-      <li>Remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) of DX VPN or its affiliates, partners, suppliers, or the licensors of the Application.</li>
+      <li>Remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) of MEDIATEK VPN or its affiliates, partners, suppliers, or the licensors of the Application.</li>
     </ul>
 
     <h2>4. Termination</h2>
-    <p>This EULA will terminate immediately, without prior notice from DX VPN, if you fail to comply with any provision of this EULA.</p>
+    <p>This EULA will terminate immediately, without prior notice from MEDIATEK VPN, if you fail to comply with any provision of this EULA.</p>
 
     <h2>5. No Warranties</h2>
     <p>The Application is provided to you "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind.</p>
   `,
   securityNotes: `
-    <h2>DX VPN Security Overview</h2>
-    <p>At DX VPN, we prioritize your digital security and privacy. Here’s a brief overview of the measures we take:</p>
+    <h2>MEDIATEK VPN Security Overview</h2>
+    <p>At MEDIATEK VPN, we prioritize your digital security and privacy. Here’s a brief overview of the measures we take:</p>
     
     <h3>Encryption Protocols</h3>
     <p>We utilize industry-standard encryption protocols (e.g., AES-256) to secure your data transmission. This ensures that your online activities are protected from eavesdropping and data interception.</p>
     
     <h3>No-Log Policy</h3>
-    <p>DX VPN adheres to a strict no-log policy. We do not monitor, record, or store any information about your browsing history, traffic destination, data content, or DNS queries. Your online activities are your own business.</p>
+    <p>MEDIATEK VPN adheres to a strict no-log policy. We do not monitor, record, or store any information about your browsing history, traffic destination, data content, or DNS queries. Your online activities are your own business.</p>
     
     <h3>Secure Servers</h3>
     <p>Our global server network is designed with security in mind. Servers are hardened against vulnerabilities and are regularly updated to protect against the latest threats.</p>
     
     <h3>IP Masking</h3>
-    <p>When you connect to DX VPN, your real IP address is hidden and replaced with one of our server's IP addresses. This makes it difficult for third parties to track your online identity and location.</p>
+    <p>When you connect to MEDIATEK VPN, your real IP address is hidden and replaced with one of our server's IP addresses. This makes it difficult for third parties to track your online identity and location.</p>
     
     <h3>DNS Leak Protection</h3>
     <p>We offer built-in DNS leak protection to ensure that your DNS requests are routed through the VPN tunnel, preventing your internet service provider (ISP) from seeing your browsing activity.</p>
